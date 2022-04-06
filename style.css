@@ -1,0 +1,28 @@
+/* add code here to make your image 300px square */
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 15%;
+}
+/* add code here to change the color and font family of your name/title */
+h1{
+    font-family: sans-serif;
+    color: coral;
+    
+}
+/* Bonus: change the color of your list elements */
+ol{
+    color: darkblue;
+    font-weight: bold;
+}
+h1 {
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-color: silver
+    
+  }
+  
